@@ -1,0 +1,18 @@
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\bin\Debug\Interfaz Hotel.exe.config
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\bin\Debug\Interfaz Hotel.exe
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\bin\Debug\Interfaz Hotel.pdb
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\bin\Debug\MySql.Data.dll
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\bin\Debug\Google.Protobuf.dll
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\bin\Debug\Renci.SshNet.dll
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\bin\Debug\MySql.Data.xml
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\obj\Debug\Interfaz_Hotel.VistaHabitaciones.resources
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\obj\Debug\Interfaz_Hotel.Properties.Resources.resources
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\obj\Debug\Interfaz Hotel.csproj.GenerateResource.cache
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\obj\Debug\Interfaz Hotel.csproj.CopyComplete
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\obj\Debug\Interfaz Hotel.exe
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\obj\Debug\Interfaz Hotel.pdb
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\obj\Debug\Interfaz Hotel.csprojAssemblyReference.cache
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\obj\Debug\Interfaz_Hotel.AdministracionHotel.resources
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\obj\Debug\Interfaz_Hotel.Limite.resources
+C:\Users\esaud\source\repos\Interfaz Hotel\Interfaz Hotel\obj\Debug\Interfaz_Hotel.NuevaHabitacion.resources
